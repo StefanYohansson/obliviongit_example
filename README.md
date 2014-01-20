@@ -3,7 +3,7 @@ obliviongit_example
 
 Exemplo de projeto no GitHub para aprendizado do projeto.
 
-Git é uma ferramenta que auxilia no desenvolvimento de código aberto, assim como SVN e Mercurial. O git permite gerenciar problemas em arquivos em revisões diferentes, ou seja, mecher no arquivo tendo ele em dois estados ou mais e submeter apenas a revisão que deseja para o pai. Enfim, mesmo não tendo entendido, vamos entender ao longo do desenvolvimento do projeto de exemplo.
+Git é uma ferramenta que auxilia no desenvolvimento de código aberto, assim como SVN e Mercurial. O git permite gerenciar problemas em arquivos em revisões diferentes, ou seja, mexer no arquivo tendo ele em dois estados ou mais e submeter apenas a revisão que deseja para o pai. Enfim, mesmo não tendo entendido, vamos entender ao longo do desenvolvimento do projeto de exemplo.
 
 1. Fork(ando) em um projeto
 
