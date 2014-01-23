@@ -43,7 +43,7 @@ git add .
 
 onde . é o diretório atual, no caso pode ser substituido por qualquer arquivo ou pasta (caso seja uma pasta, todos os arquivos não rastreados daquela pasta serão adicionados)
 
-Então temos um arquivo adicionado. A ideia de commit é uma mudança, problema, solução, qualquer coisa feita nos arquivos que termine uma parte de uma das coisas citadas acima é considerado um commit. Então se eu tenho um código que está dando erro de SQL e vou ajeitar, quando eu terminar de ajeitar, eu vou commitar os arquivos alterados. Um commit nada mais é do que colocar aqueles arquivos rastreados em stage para serem subidos para o repositório. ( como um elevador )
+Então temos um arquivo adicionado. A ideia de commit é uma mudança, problema, solução, qualquer coisa feita nos arquivos que termine uma parte de uma das coisas citadas acima é considerado um commit. Então se eu tenho um código que está dando erro de SQL e vou ajeitar, quando eu terminar de ajeitar, eu vou commitar os arquivos alterados. Um commit nada mais é do que colocar aqueles arquivos rastreados em stage para serem enviados para o repositório. ( como um elevador )
 Um commit pode ser acompanhado de uma mensagem e é assinalado com suas credenciais, nome e email.
 
 Para subir as mudanças commitadas para o repositório, se usa o comando:
